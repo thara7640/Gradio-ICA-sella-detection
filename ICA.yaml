@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/ICA_detection1/train
+val: /content/drive/MyDrive/ICA_detection1/valid
+test: /content/drive/MyDrive/ICA_detection1/test
+# number of classes
+nc: 2
+# class names
+names: [ 'ICA', 'sella' ]
