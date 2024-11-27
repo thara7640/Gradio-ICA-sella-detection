@@ -14,6 +14,4 @@ and run codes of StepA and StepB in colab
 13. Run codes of StepD in colab for Gradio interface by vdo.mp4 
 # Download the illustration file to use the Gradio application for ICA detection as file.pdf
 ![Alt text](./Python-FFD43B.svg)
-<img src="./Python-FFD43B.svg">
-![Alt text](./psu.jpg)
-<img src="./psu.jpg">
+<img src="./psu1.jpg">
