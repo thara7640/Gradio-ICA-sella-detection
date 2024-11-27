@@ -17,3 +17,4 @@ https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoC
 ![image](https://github.com/user-attachments/assets/06d2c454-6ddc-47b7-8276-0047aca95a22)
 
 ![image]({BadgeURLHere})
+https://img.shields.io/badge/{TEXTess}-{#3776AB}?style=for-the-badge&logo={Python}&logoColor=white
