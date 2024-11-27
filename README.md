@@ -14,7 +14,7 @@ and run codes of StepA and StepB in colab
 13. Run codes of StepD in colab for Gradio interface by vdo.mp4 
 # Download the illustration file to use the Gradio application for ICA detection as file.pdf
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-![image](https://github.com/user-attachments/assets/06d2c454-6ddc-47b7-8276-0047aca95a22)
+![image]([https://github.com/user-attachments/assets/06d2c454-6ddc-47b7-8276-0047aca95a22](https://github.com/thara7640/Gradio-ICA-sella-detection/blob/main/Python-FFD43B.svg))
 
 ![image]({BadgeURLHere})
 https://img.shields.io/badge/{TEXTess}-{#3776AB}?style=for-the-badge&logo={Python}&logoColor=white
