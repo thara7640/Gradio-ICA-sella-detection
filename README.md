@@ -1,4 +1,4 @@
-# Gradio-ICA-detection
+![image](https://github.com/user-attachments/assets/2f2a2d0b-04d4-4580-ba45-f4d18ff2dad9)# Gradio-ICA-detection
 Gradio for ICA detection in endoscopic transsphenoidal surgery
 # Step for using Gradio application for ICA detection 
 1. Download all files on your PC/laptop (1.Gradio for ICA detection.ipynb, 2.ICA.yaml, 3.best.pt)
@@ -15,3 +15,5 @@ and run codes of StepA and StepB in colab
 # Download the illustration file to use the Gradio application for ICA detection as file.pdf
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 ![image](https://github.com/user-attachments/assets/06d2c454-6ddc-47b7-8276-0047aca95a22)
+
+![image]({BadgeURLHere})
