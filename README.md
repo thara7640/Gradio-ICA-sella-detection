@@ -4,8 +4,8 @@ Gradio for ICA detection in endoscopic transsphenoidal surgery
 1. Download all files on your PC/laptop (1.Gradio for ICA detection.ipynb, 2.ICA.yaml, 3.best.pt)
 2. Open ICA detection.ipynb with google colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thara7640/Gradio-ICA-sella-detection/blob/main/Gradio-for-ICA-detection.ipynb)]
 3.
-4.
-5. [![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thara7640/Gradio-ICA-sella-detection/](https://colab.research.google.com/github/thara7640/Gradio-ICA-sella-detection/blob/main/Gradio-for-ICA-detection.ipynb)]
+4.<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+5. 
 6. Run codes of StepA and StepB in colab
 7. At the sidebar on the left side, you will see the yolov5 folder.
 8. In the director of yolov5/data, drag to copy "ICA.yaml" in the "data" folder.
