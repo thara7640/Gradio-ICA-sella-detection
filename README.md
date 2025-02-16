@@ -12,7 +12,7 @@ and run codes of StepA and StepB in colab
 11. Run codes of StepC in colab
 12. Run codes of StepD in colab for Gradio interface by image; then: you will geta  public URL for external use with another window tab or mobile phone
 13. Run codes of StepD in colab for Gradio interface by vdo.mp4 
-# Download the illustration file to use the Gradio application for ICA detection as file.pdf (soon)
+# Download the illustration file to use the Gradio application for ICA detection as Gradio_app_ICA_instruction.pdf 
 ![Alt text](./Python-FFD43B.svg)
 <img src="./googlecolab1.svg">
 <img src="./psu1.jpg">
